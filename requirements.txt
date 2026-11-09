@@ -1,0 +1,11 @@
+langchain-classic
+langchain-community
+langchain-core
+langchain-ollama
+langchain-pinecone
+langchain-text-splitters
+langgraph
+pinecone
+pydantic
+python-dotenv
+rank-bm25
